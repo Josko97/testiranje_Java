@@ -1,0 +1,161 @@
+[
+  {
+    "branchNumber": "7168",
+    "posTerminal": "1",
+    "dateTime": "20240908200814",
+    "receiptNumber": "1688",
+    "itemSequence": "083",
+    "transactionData": [
+      {
+        "cashierNumber": "5",
+        "itemCounter": "4",
+        "totalPrice": "39.33",
+        "transactionId": ""
+      },
+      {
+        "cashierNumber": "2",
+        "itemCounter": "3",
+        "totalPrice": "119.18",
+        "transactionId": ""
+      },
+      {
+        "cashierNumber": "2",
+        "itemCounter": "9",
+        "totalPrice": "95.43",
+        "transactionId": ""
+      },
+      {
+        "cashierNumber": "3",
+        "itemCounter": "10",
+        "totalPrice": "29.90",
+        "transactionId": ""
+      },
+      {
+        "cashierNumber": "1",
+        "itemCounter": "9",
+        "totalPrice": "64.70",
+        "transactionId": ""
+      }
+    ]
+  },
+  {
+    "branchNumber": "4330",
+    "posTerminal": "9",
+    "dateTime": "20241122200814",
+    "receiptNumber": "7547",
+    "itemSequence": "036",
+    "transactionData": [
+      {
+        "cashierNumber": "4",
+        "itemCounter": "3",
+        "totalPrice": "154.93",
+        "transactionId": ""
+      }
+    ]
+  },
+  {
+    "branchNumber": "1246",
+    "posTerminal": "13",
+    "dateTime": "20241030200814",
+    "receiptNumber": "4120",
+    "itemSequence": "036",
+    "transactionData": [
+      {
+        "cashierNumber": "5",
+        "itemCounter": "7",
+        "totalPrice": "161.71",
+        "transactionId": ""
+      },
+      {
+        "cashierNumber": "2",
+        "itemCounter": "8",
+        "totalPrice": "106.61",
+        "transactionId": ""
+      },
+      {
+        "cashierNumber": "3",
+        "itemCounter": "4",
+        "totalPrice": "170.20",
+        "transactionId": ""
+      },
+      {
+        "cashierNumber": "2",
+        "itemCounter": "6",
+        "totalPrice": "56.81",
+        "transactionId": ""
+      },
+      {
+        "cashierNumber": "4",
+        "itemCounter": "1",
+        "totalPrice": "170.34",
+        "transactionId": ""
+      }
+    ]
+  },
+  {
+    "branchNumber": "6305",
+    "posTerminal": "16",
+    "dateTime": "20241201200814",
+    "receiptNumber": "8939",
+    "itemSequence": "016",
+    "transactionData": [
+      {
+        "cashierNumber": "5",
+        "itemCounter": "9",
+        "totalPrice": "116.33",
+        "transactionId": ""
+      },
+      {
+        "cashierNumber": "4",
+        "itemCounter": "9",
+        "totalPrice": "94.13",
+        "transactionId": ""
+      },
+      {
+        "cashierNumber": "3",
+        "itemCounter": "6",
+        "totalPrice": "11.59",
+        "transactionId": ""
+      },
+      {
+        "cashierNumber": "4",
+        "itemCounter": "10",
+        "totalPrice": "59.33",
+        "transactionId": ""
+      },
+      {
+        "cashierNumber": "1",
+        "itemCounter": "7",
+        "totalPrice": "177.69",
+        "transactionId": ""
+      }
+    ]
+  },
+  {
+    "branchNumber": "4845",
+    "posTerminal": "16",
+    "dateTime": "20240407200814",
+    "receiptNumber": "6181",
+    "itemSequence": "072",
+    "transactionData": [
+      {
+        "cashierNumber": "3",
+        "itemCounter": "4",
+        "totalPrice": "92.30",
+        "transactionId": ""
+      },
+      {
+        "cashierNumber": "4",
+        "itemCounter": "2",
+        "totalPrice": "24.14",
+        "transactionId": ""
+      },
+      {
+        "cashierNumber": "1",
+        "itemCounter": "9",
+        "totalPrice": "128.32",
+        "transactionId": ""
+      }
+    ]
+  }
+]
